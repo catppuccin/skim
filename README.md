@@ -26,7 +26,7 @@
 
 bash/zsh:
 ```sh
-alias sk='sk --color='
+alias sk='sk --color="matched:#ccd0da,matched_bg:#dd7878,current:#4c4f69,current_bg:#bcc0cc,current_match:#eff1f5,current_match_bg:#dc8a78,spinner:#40a02b,info:#8839ef,prompt:#1e66f5,cursor:#d20f39,selected:#e64553,header:#179299,border:#9ca0b0"'
 ```
 
 <img src="assets/latte.webp"/>
@@ -38,7 +38,7 @@ alias sk='sk --color='
 
 bash/zsh:
 ```sh
-alias sk='sk --color='
+alias sk='sk --color="matched:#414559,matched_bg:#eebebe,current:#c6d0f5,current_bg:#51576d,current_match:#303446,current_match_bg:#f2d5cf,spinner:#a6d189,info:#ca9ee6,prompt:#8caaee,cursor:#e78284,selected:#ea999c,header:#81c8be,border:#737994"'
 ```
 
 <img src="assets/frappe.webp"/>
@@ -50,7 +50,7 @@ alias sk='sk --color='
 
 bash/zsh:
 ```sh
-alias sk='sk --color='
+alias sk='sk --color="matched:#363a4f,matched_bg:#f0c6c6,current:#cad3f5,current_bg:#494d64,current_match:#24273a,current_match_bg:#f4dbd6,spinner:#a6da95,info:#c6a0f6,prompt:#8aadf4,cursor:#ed8796,selected:#ee99a0,header:#8bd5ca,border:#6e738d"'
 ```
 
 <img src="assets/macchiato.webp"/>
@@ -62,7 +62,7 @@ alias sk='sk --color='
 
 bash/zsh:
 ```sh
-alias sk='sk --color='
+alias sk='sk --color="matched:#313244,matched_bg:#f2cdcd,current:#cdd6f4,current_bg:#45475a,current_match:#1e1e2e,current_match_bg:#f5e0dc,spinner:#a6e3a1,info:#cba6f7,prompt:#89b4fa,cursor:#f38ba8,selected:#eba0ac,header:#94e2d5,border:#6c7086"'
 ```
 
 <img src="assets/mocha.webp"/>
