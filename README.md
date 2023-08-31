@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/gabrielmagno/skim/stargazers"><img src="https://img.shields.io/github/stars/gabrielmagno/skim?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/gabrielmagno/skim/issues"><img src="https://img.shields.io/github/issues/gabrielmagno/skim?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/gabrielmagno/skim/contributors"><img src="https://img.shields.io/github/contributors/gabrielmagno/skim?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/skim/stargazers"><img src="https://img.shields.io/github/stars/gabrielmagno/skim?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/skim/issues"><img src="https://img.shields.io/github/issues/gabrielmagno/skim?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/skim/contributors"><img src="https://img.shields.io/github/contributors/gabrielmagno/skim?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
